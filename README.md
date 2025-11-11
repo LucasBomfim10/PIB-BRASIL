@@ -45,7 +45,7 @@ Este projeto demonstra proficiência em diversas áreas do Power BI e análise d
 **Objetivo:** Oferecer uma visão geral do PIB brasileiro, destacando a participação e o crescimento econômico de cada Unidade da Federação.
 **Principais Insights:** Identificação das UFs com maior contribuição para o PIB nacional e aquelas com maior/menor crescimento anual.
 
-![Dashboard 1 - PIB Brasil: Panorama por UF](PIB_ BRASIL.PNG)
+![Dashboard 1 - PIB Brasil: Panorama por UF](PIB_ Brasil.PNG)
 
 ### 2. Estrutura Setorial por UF
 
