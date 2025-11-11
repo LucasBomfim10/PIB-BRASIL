@@ -18,11 +18,11 @@ Os dados foram extraídos de fontes públicas e confiáveis, principalmente do *
 
 Este projeto demonstra proficiência em diversas áreas do Power BI e análise de dados:
 
-1.  **Modelagem de Dados Robusta:**
+1.  **Modelagem de Dados:**
     * Criação de um modelo de dados estrela (Star Schema) com tabelas de fatos (PIB, Gini) e tabelas de dimensão (Diretórios de UF, Municípios, Calendário).
     * Gerenciamento de relacionamentos eficientes entre as tabelas.
 
-2.  **DAX (Data Analysis Expressions) Avançado:**
+2.  **DAX (Data Analysis Expressions):**
     * **Medidas de Participação:** Cálculo da porcentagem do PIB de UFs e setores em relação ao total nacional.
     * **Análise Temporal (Time Intelligence):** Medidas de `Crescimento Anual (%)` para comparar o PIB de um ano com o ano anterior, utilizando funções como `SAMEPERIODLASTYEAR`.
     * **Controle de Contexto:** Uso de `CALCULATE` e `ALL` para manipular filtros e obter KPIs nacionais independentes de seleções.
@@ -33,7 +33,7 @@ Este projeto demonstra proficiência em diversas áreas do Power BI e análise d
     * **Clareza e Foco:** Design centrado na mensagem, utilizando títulos conclusivos e remoção de "clutter" (informações desnecessárias).
     * **Uso Estratégico da Cor:** Aplicação de formatação condicional (verde/vermelho para crescimento/retração, mapas de calor para Gini) para guiar o olhar do usuário para insights importantes.
     * **Consistência Visual:** Aplicação de um tema personalizado (fundo escuro, fontes claras, bordas arredondadas) para uma experiência de usuário coesa e profissional.
-    * **Dashboards Interativos:** Utilização de Slicers e Drill-down para permitir que o usuário explore os dados.
+    * **Dashboards Interativos:** Utilização de Slicers para permitir que o usuário explore os dados.
 
 4.  **Otimização de Desempenho:**
     * Medidas DAX otimizadas para um carregamento rápido dos visuais.
